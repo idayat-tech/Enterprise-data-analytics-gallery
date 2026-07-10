@@ -99,7 +99,7 @@ Created a credit risk monitoring dashboard that helps financial institutions eva
 The project transforms raw lending data into executive-level insights that support better lending decisions and proactive portfolio monitoring.
 
 ### 📊 Dashboard Preview
-![Credit Risk Dashboard](credit-risk-analytics/credit-risk-dashboard.png)
+![Credit Risk Dashboard](https://github.com/idayat-tech/Enterprise-data-analytics-gallery/blob/main/credit-risk-analytics/Screenshot%20(106).png)
 
 ### 🔍 Business Problems Solved
 - Identify high-risk borrowers
