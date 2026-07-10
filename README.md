@@ -12,7 +12,7 @@ Designed an enterprise cybersecurity audit solution that detects unauthorized AI
 The project simulates firewall logs from multiple departments, automatically cleans inconsistent data using SQL Views, classifies sanctioned vs. unsanctioned AI vendors, assigns risk levels through a SQL-based scoring engine, and visualizes security incidents in Power BI.
 
 ### 📊 Executive Dashboard
-![Enterprise Shadow AI Command Center](enterprise-shadow-ai-audit/shadow-ai-dashboard.png)
+![Enterprise Shadow AI Command Center](https://github.com/idayat-tech/Enterprise-data-analytics-gallery/blob/main/enterprise-shadow-ai-audit/Shadow_AI_Dashboard_Cropped_Enterprise(1).png)
 
 ### 🔍 Business Problems Solved
 - Detect employees using unauthorized AI tools
