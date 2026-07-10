@@ -70,7 +70,7 @@ Developed an international payroll reporting solution that automates cross-borde
 The solution reduces manual spreadsheet calculations while giving management a consolidated view of global payroll costs across different countries and currencies.
 
 ### 📊 Dashboard Preview
-![Global Payroll Dashboard](global-cross-border-payroll/payroll-dashboard.png)
+![Global Payroll Dashboard](https://github.com/idayat-tech/Enterprise-data-analytics-gallery/blob/main/global-cross-border-payroll/Screenshot%20(95).png)
 
 ### 🔍 Business Problems Solved
 - Eliminate manual currency conversion
