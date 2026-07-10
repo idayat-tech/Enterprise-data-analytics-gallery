@@ -41,7 +41,7 @@ Built a SaaS product analytics dashboard to measure user retention, feature adop
 Using SQL for cohort preparation and Power BI for interactive analytics, the dashboard enables product managers to identify onboarding issues, compare acquisition channels, monitor feature adoption, and detect users at risk of churn.
 
 ### 📊 Dashboard Preview
-![Product Growth Dashboard](product-growth-analytics/cohort-dashboard.png)
+![Product Growth Dashboard](https://github.com/idayat-tech/Enterprise-data-analytics-gallery/blob/main/product-growth-analytics/Screenshot%20(66).png)
 
 ### 🔍 Business Problems Solved
 - Understand when customers stop using the product
